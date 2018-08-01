@@ -47,7 +47,8 @@ p {
 	text-decoration: none;
 	font-size:20px;
 	border-radius: 5px;
-	border: 2px solid #FDFEFE;
+	border: 2px solid;
+	border-color: #FDFEFE;
 }
 
 .topnav a:hover {
