@@ -27,6 +27,17 @@ h2 {
 	
 }
 
+h3 {
+	border-style: double;
+	border-width: 6px;
+	border-color: #17202A;
+	padding: 1%;
+	width: 30%;
+	height: 5%;
+	margin:auto;
+	
+}
+
 p {
 	font-size:18px;
 }
