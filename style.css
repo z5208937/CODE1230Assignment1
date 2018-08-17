@@ -62,17 +62,17 @@ p {
 }
 
 .slider figure div{
-width: 0;
+width: 20%;
     float: left;
 }
 .slider figure img{
-width: 800px;
+width: 100%;
     float:left;
 }
 
 .slider figure{
 position: relative;
-    width: 800px;
+    width: 500%;
     margin: 0;
     left: 0;
     animation; 40s slidy infinite;
